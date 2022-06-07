@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/EdgarRonaldo/Desktop/2022-Intersemestral/mi-primera-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/EdgarRonaldo/Desktop/2022-Intersemestral/mi-primera-app/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mi-primera-app 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/EdgarRonaldo/Desktop/2022-Intersemestral/mi-primera-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mi-primera-app 1.0-SNAPSHOT API'
+edu.escuelaing.arsw.app
+'C:/Users/EdgarRonaldo/Desktop/2022-Intersemestral/mi-primera-app/src/main/java/edu/escuelaing/arsw/app/App.java'
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\src\main\java = 1654615202801
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\allclasses-frame.html = 1654615735649
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\allclasses-noframe.html = 1654615735663
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\constant-values.html = 1654615735147
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\deprecated-list.html = 1654615735639
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\help-doc.html = 1654615735701
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\index-all.html = 1654615735616
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\index.html = 1654615735678
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\overview-tree.html = 1654615735552
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\package-list = 1654615734010
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\script.js = 1654615735737
+C:\Users\EdgarRonaldo\Desktop\2022-Intersemestral\mi-primera-app\target\site\apidocs\stylesheet.css = 1654615735712
