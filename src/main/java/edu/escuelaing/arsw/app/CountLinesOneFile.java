@@ -5,15 +5,10 @@ import java.io.File;
 import java.io.FileReader;
 
 /**
- * Hello world!
- *
+ * Primera version del taller donde se cuenta el numero de lineas de un archivo
  */
-public class FirstVersion {
+public class CountLinesOneFile {
     public static void main(String[] args) {
-        //System.out.println(countLinesPhysical(args[1]));
-        //System.out.println(countLinesOfCode(args[1]));
-        //System.out.println(countLinesPhysical("src/main/resources/English.java"));
-        //System.out.println(countLinesOfCode("src/main/resources/English.java"));
         String option = args[0];
         if (option.equals("phy")){
             System.out.println(countLinesPhysical(args[1]));
@@ -23,6 +18,11 @@ public class FirstVersion {
         }
     }
 
+    /**
+     * Cuenta el numero de lineas totales del archivo
+     * @param fileName el archivo a realizar el conteo
+     * @return numero de lineas del archivo
+     */
     public static long countLinesPhysical(String fileName) {
         long lines = 0;
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
@@ -35,6 +35,11 @@ public class FirstVersion {
         return lines;
     }
 
+    /**
+     * Cuenta el numero de lineas de codigo especificas del archivo
+     * @param fileName el archivo a realizar el conteo
+     * @return el numero de lineas de codigo del archivo
+     */
     public static long countLinesOfCode(String fileName) {
         long lines = 0;
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
@@ -50,7 +55,11 @@ public class FirstVersion {
         return lines;
     }
 
-
+    /**
+     * Metodo auxiliar que obtiene el primer caracter no vacio de una cadena
+     * @param string la cadena a obtener primer caracter
+     * @return el primer caracter
+     */
     public static char getFirstCharacterFromString(String string){
         char value = ' ';
         try{
