@@ -5,6 +5,7 @@
  */
 package hangman.model;
 
+//Esto es un comentario
 /**
  *
  * @author 2106913
