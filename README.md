@@ -11,7 +11,7 @@ git clone https://github.com/ronis97/ARSW-T1.git
 ```
 
 
-### Prerequisites
+### Prerrequisitos
 
 Necesitamos de:
 * Maven
@@ -19,7 +19,7 @@ Necesitamos de:
 
 Para una correcta ejecucion del aplicativo.
 
-### Installing
+### Instalacion
 
 Ejecutamos la siguiente instruccion en consola:
 
@@ -68,7 +68,7 @@ El diagrama completo se puede encontrar en el archivo `Taller1ARSW.asta`
 
 
 
-## Author
+## Autor
 
 * **Edgar Ronaldo Henao Villarreal**
 
